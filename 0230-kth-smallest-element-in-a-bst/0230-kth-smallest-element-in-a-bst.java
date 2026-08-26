@@ -20,17 +20,17 @@ class Solution {
        inorder(root, k);
        return ans;
     }
-    private void inorder(TreeNode node, int k){
-        if(node == null) return;
+    private boolean inorder(TreeNode node, int k){
+        if(node == null) return false;
 
-        inorder(node.left, k);
+        if(inorder(node.left, k)) return true;
 
         count++;
         if(count == k){
             ans = node.val;
-            return;
+            return true;
         }
 
-        inorder(node.right, k);
+        return inorder(node.right, k);
     }
 }
