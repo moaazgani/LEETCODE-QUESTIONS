@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
