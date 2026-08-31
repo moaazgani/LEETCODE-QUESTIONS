@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,8 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
