@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -91,8 +93,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
