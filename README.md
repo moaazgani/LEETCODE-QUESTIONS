@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0572-subtree-of-another-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0572-subtree-of-another-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Hash Function
 |  |
 | ------- |
@@ -102,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
