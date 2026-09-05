@@ -4,8 +4,8 @@ class Solution {
         int[] min = new int[n];
         min[n - 1] = nums[n - 1];
 
-        for(int i = 1; i < n; i++){
-            min[n - i - 1] = Math.min(nums[n - i - 1], min[n - i]);
+        for (int i = n - 2; i >= 0; i--) {
+            min[i] = Math.min(nums[i], min[i + 1]);
         }
         int max = nums[0];
         for(int i = 0; i < n; i++){
