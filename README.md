@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
