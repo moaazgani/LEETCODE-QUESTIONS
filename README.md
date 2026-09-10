@@ -138,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
