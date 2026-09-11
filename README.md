@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
+| [0143-reorder-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 ## Hash Table
@@ -141,9 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
