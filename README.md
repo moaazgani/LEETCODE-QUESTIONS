@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0535-encode-and-decode-tinyurl](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [3498-reverse-degree-of-a-string](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Tree
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0535-encode-and-decode-tinyurl](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2404-most-frequent-even-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
