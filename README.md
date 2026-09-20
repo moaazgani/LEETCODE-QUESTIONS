@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0572-subtree-of-another-tree) |
+| [3498-reverse-degree-of-a-string](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
