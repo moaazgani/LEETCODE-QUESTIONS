@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -181,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/moaazgani/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
